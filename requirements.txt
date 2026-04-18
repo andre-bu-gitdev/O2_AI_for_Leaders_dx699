@@ -5,3 +5,5 @@ scikit-learn
 kagglehub
 seaborn
 tqdm
+statsmodels
+openpyxl
